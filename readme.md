@@ -1,4 +1,4 @@
-# Add it by Frank Zhang 2  for git test
+# Add it by Frank Zhang 4  for git test
 simple, minimal Maven example: hello maven test 
 
 To create the files in this git repo we've already run `mvn archetype:generate` from http://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
